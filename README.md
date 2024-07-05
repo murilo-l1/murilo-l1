@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=murilo-l1&color=blue&style=flat-square)
 
-I'm an **aspirant back-end developer** and a **computer science major** in *Federal Technological University of Paraná* who enjoys good pieces of software.
+Aspiring **back-end developer** and **Computer Science major** at the *Federal Technological University of Paraná*, passionate about crafting quality software.
 
 - 🌱 I'm currently learning **JavaScript/Node.js**
  
