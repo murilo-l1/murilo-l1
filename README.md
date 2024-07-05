@@ -6,9 +6,9 @@ I'm an **aspirant back-end developer** and a **computer science major** in *Fede
 
 - 🌱 I'm currently learning **JavaScript/Node.js**
  
-<h2 align="left">🐱‍💻Contact Me:</h2>
+<h2 align="left">🐱‍💻Contact Me</h2>
 <p align="left">
-<a href="www.linkedin.com/in/murilo-lusvarghi-garcia-b021aa206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/murilo-lusvarghi-garcia-b021aa206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="40" width="50" /></a>
 <a href="mailto:murilolusvarghi@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="40" width="50" /></a>
 </p>
 
