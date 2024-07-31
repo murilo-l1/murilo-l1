@@ -4,7 +4,7 @@
 
 Aspiring **back-end developer** and **Computer Science major** at the *Federal Technological University of Paraná*, passionate about crafting quality software.
 
-- 🌱 I'm currently learning **JavaScript/Node.js**
+- 🌱 I'm currently learning **Java/Spring Framework**
  
 <h2 align="left">🐱‍💻Contact Me</h2>
 <p align="left">
