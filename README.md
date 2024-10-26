@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=murilo-l1&color=blue&style=flat-square)
 
-Aspiring **back-end developer** and **Computer Science major** at the *Federal Technological University of Paraná*, passionate about crafting quality software.
+**Backend Developer Intern** and **Computer Science major** at the *Federal Technological University of Paraná*, passionate about crafting quality software.
 
 - 🌱 I'm currently learning **Java/Spring Framework**
  
@@ -26,6 +26,6 @@ Aspiring **back-end developer** and **Computer Science major** at the *Federal T
 
 </p>
 
-<a href="https://github.com/murilo-l1/http-server-js">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo-l1&layout=compact&langs_count=8&card_width=300" />
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-l1&hide_progress=true&exclude_repo=projeto-disp-moveis" />
 </a>
