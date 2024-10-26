@@ -25,7 +25,7 @@
 <a href="https://github.com/murilo-l1" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="50" height="50"/> </a> 
 
 </p>
-
+<br><br>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-l1&hide_progress=true&exclude_repo=projeto-disp-moveis" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-l1&hide_progress=true&exclude_repo=projeto-disp-moveis" />
 </a>
