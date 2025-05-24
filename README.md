@@ -1,31 +1,46 @@
-<h1>👋 Hi, I'm Murilo</h1>  
+<h1 align="center">👋 Hi, I'm Murilo</h1>
 
-![](https://komarev.com/ghpvc/?username=murilo-l1&color=blue&style=flat-square)
+###
 
-**Backend Developer Intern** and **Computer Science major** at the *Federal Technological University of Paraná*, passionate about crafting quality software.
+- Full Stack Developer @ Exati 
+- Computer Science Major @ UTFPR
 
-- 🌱 I'm currently learning **Java/Spring Framework**
- 
-<h2 align="left">🐱‍💻Contact Me</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/murilo-lusvarghi-garcia-b021aa206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="40" width="50" /></a>
-<a href="mailto:murilolusvarghi@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="40" width="50" /></a>
-</p>
+###
 
-<h2 align="left">💻 Technologies </h2>
-<p align="left"> 
-<a href="https://github.com/murilo-l1/htpp-server-js" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="js" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1/htpp-server-js" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="node" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1/spring-restapi-crud-employee" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1/spring-restapi-crud-employee" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="spring-boot" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1/spring-restapi-crud-employee" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachemaven.svg" alt="maven" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1/spring-restapi-crud-employee" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1/projeto-disp-moveis" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="flutter" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://github.com/murilo-l1" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="50" height="50"/> </a> 
+<h2 align="left">📬 Contact Me</h2>
 
-</p>
-<br><br>
-<a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-l1&hide_progress=true&exclude_repo=projeto-disp-moveis" />
-</a>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/murilo-lusvarghi" title="LinkedIn">	
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:lusvarghi.murilo@gmail.com" title="Gmail">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">💻Technologies</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo-l1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="160" alt="languages graph"  />
+</div>
